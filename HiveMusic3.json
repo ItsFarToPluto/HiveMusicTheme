@@ -1,8 +1,7 @@
 {
     "room": "Music Hive ♫",
     "author": "Created By YouCannotHide",
-    "icon": "https://s21.postimg.org/g4j584c4n/rsz_imageedit_2_7884309653.png",
-    "css": "https://cdn.rawgit.com/YouCannotHide/615cba13ab12e1e59ce3939c7d914431/raw/13d1b97b903354f03202882384e1f6a9fd77e57d/PlugDjTheme.css",
+    "css": "https://cdn.rawgit.com/YouCannotHide/f3c6a260222716cc822c17ad59665ff2/raw/098390f74b9ac82dab575a3e99c8b20d26e6960a/MusicHiveTheme2.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
