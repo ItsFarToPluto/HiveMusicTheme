@@ -1,7 +1,7 @@
 {
     "room": "Music Hive ♫",
     "author": "Created By YouCannotHide",
-    "icon": "http://i68.tinypic.com/2je61dx.png",
+    "icon": "https://s21.postimg.org/vmy9gj2t3/rsz_emerging-music-talent-logo.png",
     "css": "https://cdn.rawgit.com/YouCannotHide/615cba13ab12e1e59ce3939c7d914431/raw/13d1b97b903354f03202882384e1f6a9fd77e57d/PlugDjTheme.css",
     "rules": {
         "allowAutorespond": true,
